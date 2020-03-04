@@ -10,7 +10,7 @@ surge_ruleset=🐟 鱼,[]FINAL
 ;设置规则标志位
 
 ;设置分组标志位
-custom_proxy_group=`select`[]✈ 手动选择`[]✈ 延迟最低`[]🇭🇰 香港`[]🇸🇬 新加坡`[]🇯🇵 日本`[]🇺🇲 美国`[]DIRECT
+custom_proxy_group=🐟 鱼`select`[]✈ 手动选择`[]✈ 延迟最低`[]🇭🇰 香港`[]🇸🇬 新加坡`[]🇯🇵 日本`[]🇺🇲 美国`[]DIRECT
 custom_proxy_group=✈ 手动选择`select`.*
 custom_proxy_group=📲 Telegram`select`[]✈ 延迟最低`[]🐟 鱼`(狮城|新|港)
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
